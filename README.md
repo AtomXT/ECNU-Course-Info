@@ -3,17 +3,6 @@
 
 ## Table of Content
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-wgwr{font-weight:bold;border-color:#f9f9f9;text-align:left}
-.tg .tg-t497{background-color:#f9f9f9;border-color:#f9f9f9;text-align:left}
-.tg .tg-l3s8{background-color:#f9f9f9;font-weight:bold;border-color:#f9f9f9;text-align:center}
-.tg .tg-v2v7{border-color:#f9f9f9;text-align:left;vertical-align:top}
-.tg .tg-lnfa{border-color:#f9f9f9;text-align:left}
-.tg .tg-677o{background-color:#f9f9f9;border-color:#f9f9f9;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-v2v7"></th>
