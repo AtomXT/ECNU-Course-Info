@@ -2,4 +2,4 @@
 
 | 课程名称| 教师 | 信息 |
 |--------|-----|------|
-| 高等代数 | 姚强 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/gdds.md) |
+| 高等代数I | 姚强 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/gdds.md) |
