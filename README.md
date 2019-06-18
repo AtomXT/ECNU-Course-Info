@@ -11,7 +11,7 @@
     <th class="tg-wgwr">课程信息</th>
   </tr>
   <tr>
-    <td class="tg-l3s8" rowspan="3">学科基础课程<br>&amp;<br>专业教育课程</td>
+    <td class="tg-l3s8" rowspan="3">学科基础课程<br><br>专业教育课程</td>
     <td class="tg-t497">统计学院</td>
     <td class="tg-t497">STAT</td>
     <td class="tg-t497"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/STAT.md">介绍</a></td>
