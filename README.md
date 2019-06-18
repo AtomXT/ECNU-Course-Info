@@ -1,6 +1,10 @@
 # ECNU-Course-Info
 提供课程相关信息，便于ECNUer选课。
 
+## Contributing Instruction
+欢迎你提供新的课程介绍或者相关信息。
+你可以查看这个文件[contributing guide](https://github.com/AtomXT/ECNU-Course-Info/blob/master/other/contributing-guide.md)来获取详细的编辑要求。
+
 ## Table of Content
 
 <table class="tg">
@@ -96,6 +100,3 @@
   </tr>
 </table>
 
-## Contributing Instruction
-欢迎您提供新的课程介绍或者相关信息。
-你可以查看这个文件[contributing guide](https://github.com/AtomXT/ECNU-Course-Info/blob/master/other/contributing-guide.md)来获取详细的编辑要求。
