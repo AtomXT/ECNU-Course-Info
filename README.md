@@ -26,36 +26,38 @@
     <td class="tg-677o">MATH</td>
     <td class="tg-677o"><br><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/MATH.md">介绍</a></td>
   </tr>
+</table>
+
+<table class="tg">
   <tr>
-    <td class="tg-wgwr" rowspan="6">通识教育课程</td>
-    <td class="tg-v2v7">英语类</td>
-    <td class="tg-v2v7"></td>
-    <td class="tg-v2v7"><br><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/COEN.md">介绍</a></td>
+    <th class="tg-0pky"></th>
+    <th class="tg-fymr">分类</th>
+    <th class="tg-fymr">课程信息</th>
   </tr>
   <tr>
-    <td class="tg-677o">计算机类</td>
-    <td class="tg-677o"></td>
-    <td class="tg-677o"><br><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/CMCC.md">介绍</a></td>
+    <td class="tg-3xcq" rowspan="6">通识教育课程</td>
+    <td class="tg-677o">英语类</td>
+    <td class="tg-677o"><br>介绍</td>
   </tr>
   <tr>
-    <td class="tg-v2v7">思政类</td>
-    <td class="tg-v2v7"></td>
-    <td class="tg-v2v7"><br><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/SZ.md">介绍</a></td>
+    <td class="tg-v2v7">计算机类</td>
+    <td class="tg-v2v7"><br>介绍</td>
   </tr>
   <tr>
-    <td class="tg-677o">体育类</td>
-    <td class="tg-677o"></td>
-    <td class="tg-677o"><br><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/TY.md">介绍</a></td>
+    <td class="tg-677o">思政类</td>
+    <td class="tg-677o"><br>介绍</td>
   </tr>
   <tr>
-    <td class="tg-v2v7">文化传承类</td>
-    <td class="tg-v2v7"></td>
-    <td class="tg-v2v7"><br><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/WHCC.md">介绍</a></td>
+    <td class="tg-v2v7">体育类</td>
+    <td class="tg-v2v7"><br>介绍</td>
   </tr>
   <tr>
-    <td class="tg-677o">通识精品课程</td>
-    <td class="tg-677o"></td>
-    <td class="tg-677o"><br><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/%E7%B2%BE%E5%93%81%E8%AF%BE%E7%A8%8B.md">介绍</a></td>
+    <td class="tg-677o">文化传承类</td>
+    <td class="tg-677o"><br>介绍</td>
+  </tr>
+  <tr>
+    <td class="tg-v2v7">通识精品课程</td>
+    <td class="tg-v2v7"><br>介绍</td>
   </tr>
 </table>
 
