@@ -61,6 +61,6 @@
   </tr>
 </table>
 
-## Contributing instruction
+## Contributing Instruction
 欢迎您提供新的课程介绍或者相关信息。
 你可以查看这个文件[contributing guide](https://github.com/AtomXT/ECNU-Course-Info/other/contributing-guide.md)来获取详细的编辑要求。
