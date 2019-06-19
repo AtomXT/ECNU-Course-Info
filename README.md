@@ -100,3 +100,7 @@
   </tr>
 </table>
 
+## 联系我
+如果有其他问题需要解决。除了open a issue 之外也可以通过邮件联系我。
+
+地址：xu-tong@outlook.com
