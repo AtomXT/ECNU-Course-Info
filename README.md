@@ -11,24 +11,24 @@
   <tr>
     <th class="tg-v2v7"></th>
     <th class="tg-wgwr">开课学院</th>
-    <th class="tg-wgwr">课程代码开头</th>
     <th class="tg-wgwr">课程信息</th>
   </tr>
   <tr>
-    <td class="tg-l3s8" rowspan="3">学科基础课程<br><br>专业教育课程</td>
+    <td class="tg-l3s8" rowspan="4">学科基础课程<br><br>专业教育课程</td>
     <td class="tg-t497">统计学院</td>
-    <td class="tg-t497">STAT</td>
     <td class="tg-t497"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/STAT.md">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-lnfa">经济学院</td>
-    <td class="tg-lnfa">FINA</td>
     <td class="tg-lnfa"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/FINA.md">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-677o">数学科学学院</td>
-    <td class="tg-677o">MATH</td>
     <td class="tg-677o"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/MATH.md">介绍</a></td>
+  </tr>
+  <tr>
+    <td class="tg-v2v7">工商管理学院</td>
+    <td class="tg-v2v7"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/MATH.md">介绍</a></td>
   </tr>
 </table>
 
