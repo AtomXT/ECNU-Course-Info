@@ -21,6 +21,8 @@
 
 ### 第三步：在Course文件夹里新建一个.md文件，命名规则为课程名称拼音首字母。
 
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/create.png)
+
 例如：概率论 gll.md、数学分析I sxfx1.md
 
 ### 第四步：添加信息。
