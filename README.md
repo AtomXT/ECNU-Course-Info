@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td class="tg-lnfa">经济学院</td>
-    <td class="tg-lnfa"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/FINA.md">介绍</a></td>
+    <td class="tg-lnfa"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/ECON.md">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-677o">数学科学学院</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td class="tg-v2v7">工商管理学院</td>
-    <td class="tg-v2v7"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/MATH.md">介绍</a></td>
+    <td class="tg-v2v7"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/BUAD.md">介绍</a></td>
   </tr>
 </table>
 
