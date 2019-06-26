@@ -3,3 +3,8 @@
 | 课程名称| 教师 | 信息 |
 |--------|-----|------|
 | 高等代数I | 姚强 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/gdds1.md) |
+| 高等代数II | 姚强 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/gdds2.md) |
+| 数学分析I/II/III | 梁金荣 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/sxfx123.md) |
+| 微观经济学 | 金铸 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/wgjjx.md) |
+| 宏观经济学 | 金铸 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/hgjjx.md) |
+| 概率论 | 许忠好 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/gll.md) |
