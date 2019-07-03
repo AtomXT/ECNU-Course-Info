@@ -7,3 +7,4 @@
 | 数学分析I/II/III | 梁金荣 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/sxfx123.md) |
 | 概率论 | 许忠好 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/gll.md) |
 | 随机过程 | 李育强 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/sjgc.md) |
+| 时间序列分析 | 吴述金 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/sjxlfx.md) |
