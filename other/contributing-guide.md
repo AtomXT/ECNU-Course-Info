@@ -54,7 +54,15 @@
 ![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/site.png)
 
 
-在info对应的md文件里有这个类别的所有课程。你可以通过首页的索引进入而不是去info文件夹里找md文件。你需要把你刚刚添加的课程名称，教师姓名和链接加上去。链接即为第三步中创建的文件的地址。
+在info对应的md文件里有这个类别的所有课程。
+
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/info_page.png)
+
+你可以通过首页的索引进入而不是去info文件夹里找md文件。
+
+你需要把你刚刚添加的课程名称，教师姓名和链接加上去。链接即为第三步中创建的文件的地址。
+
+点击右上角的小铅笔即可。
 
 ### 第三步：Pull requests
 
