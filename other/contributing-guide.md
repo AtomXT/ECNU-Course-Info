@@ -11,29 +11,52 @@
 - 注意语言的客观性。
 
 ## 流程
-对于已有的课程，直接修改即可，否则就需要按照下方步骤新添加文件。
+如果你想修改已有的课程，比如统计学院的高等代数I：
+### 第一步：点击院系
 
-如果你对GitHub使用熟练，可以自行跳过下面指导中的部分步骤：
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/info.png)
 
-### 第一步：登录你的GitHub账号，如果没有的话就创建一个吧。
+### 第二步：点击你想修改的课程
 
-### 第二步：点击右上角的Fork，把代码复制到你的账户里。
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/course.png)
 
-### 第三步：在Course文件夹里新建一个.md文件，命名规则为课程名称拼音首字母。
+### 第三步：点击小铅笔图标进行修改
+
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/edit.png)
+
+### 第四步：确认修改
+
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/discrip.png)
+
+
+如果你想添加新的课程，以高等代数I为例：
+
+
+### 第一步：在Course文件夹里新建一个.md文件，命名规则为课程名称拼音首字母。
 
 ![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/create.png)
 
 例如：概率论 gll.md、数学分析I sxfx1.md
 
-### 第四步：添加信息。
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/add_course.png)
 
-如果你不会Markdown，可以直接复制其他课程的内容，然后修改对应的文本。
+- 然后输入你想要添加的信息。
+- 注意格式要统一，你可以复制其他课程的文本然后进行修改。
 
-### 第五步：添加索引
+### 第二步：添加索引
+
+当你进入每个文件时，你会看到这样的界面。
+
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/enter.png)
+
+然后你可以复制上方的网址：
+
+![image](https://github.com/AtomXT/ECNU-Course-Info/blob/master/images/site.png)
+
 
 在info对应的md文件里有这个类别的所有课程。你可以通过首页的索引进入而不是去info文件夹里找md文件。你需要把你刚刚添加的课程名称，教师姓名和链接加上去。链接即为第三步中创建的文件的地址。
 
-### 第六步：Pull requests
+### 第三步：Pull requests
 
 - 点击上方的Pull requests
 - 创建新的请求
