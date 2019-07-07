@@ -3,4 +3,4 @@
 
 | 课程名称| 教师 | 信息 |
 |--------|-----|------|
-| 证券投资分析 | 郭白滢 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/zqtzfx.md) |
+| 证券投资分析 | 郭白滢 | [信息](Cource/zqtzfx.html) |
