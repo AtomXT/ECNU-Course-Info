@@ -16,19 +16,19 @@
   <tr>
     <td class="tg-l3s8" rowspan="4">学科基础课程<br><br>专业教育课程</td>
     <td class="tg-t497">统计学院</td>
-    <td class="tg-t497"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/STAT.md">介绍</a></td>
+    <td class="tg-t497"><a href="info/STAT.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-lnfa">经济学院</td>
-    <td class="tg-lnfa"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/ECON.md">介绍</a></td>
+    <td class="tg-lnfa"><a href="info/ECON.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-677o">数学科学学院</td>
-    <td class="tg-677o"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/MATH.md">介绍</a></td>
+    <td class="tg-677o"><a href="info/MATH.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-v2v7">工商管理学院</td>
-    <td class="tg-v2v7"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/BUAD.md">介绍</a></td>
+    <td class="tg-v2v7"><a href="info/BUAD.html">介绍</a></td>
   </tr>
 </table>
 
@@ -43,60 +43,60 @@
     <td class="tg-3xcq" rowspan="14">通识教育课程</td>
     <td class="tg-uzfi" rowspan="6">通识必修</td>
     <td class="tg-677o">英语类</td>
-    <td class="tg-677o"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/COEN.md">介绍</a></td>
+    <td class="tg-677o"><a href="info/COEN.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-v2v7">计算机类</td>
-    <td class="tg-v2v7"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/CMCC.md">介绍</a></td>
+    <td class="tg-v2v7"><a href="info/CMCC.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-677o">思政类</td>
-    <td class="tg-677o"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/SZ.md">介绍</a></td>
+    <td class="tg-677o"><a href="info/SZ.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-v2v7">体育类</td>
-    <td class="tg-v2v7"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/TY.md">介绍</a></td>
+    <td class="tg-v2v7"><a href="info/TY.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-677o">文化传承类</td>
-    <td class="tg-677o"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/WHCC.md">介绍</a></td>
+    <td class="tg-677o"><a href="info/WHCC.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-v2v7">通识精品课程</td>
-    <td class="tg-v2v7"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/TSJP.md">介绍</a></td>
+    <td class="tg-v2v7"><a href="info/TSJP.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-uzfi" rowspan="8">通识选修</td>
     <td class="tg-buh4">新生研讨课</td>
-    <td class="tg-buh4"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/XSYT.md">介绍</a></td>
+    <td class="tg-buh4"><a href="info/XSYT.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">创新创业课</td>
-    <td class="tg-0lax"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/CXCY.md">介绍</a></td>
+    <td class="tg-0lax"><a href="info/CXCY.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-buh4">语言基础系列</td>
-    <td class="tg-buh4"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/YYJC.md">介绍</a></td>
+    <td class="tg-buh4"><a href="info/YYJC.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">艺术体育系列</td>
-    <td class="tg-0lax"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/YSTY.md">介绍</a></td>
+    <td class="tg-0lax"><a href="info/YSTY.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-buh4">社会科学系列</td>
-    <td class="tg-buh4"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/SHKX.md">介绍</a></td>
+    <td class="tg-buh4"><a href="info/SHKX.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">人文科学系列</td>
-    <td class="tg-0lax"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/RWKX.md">介绍</a></td>
+    <td class="tg-0lax"><a href="info/RWKX.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-buh4">信息科学系列</td>
-    <td class="tg-buh4"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/XXKX.md">介绍</a></td>
+    <td class="tg-buh4"><a href="info/XXKX.html">介绍</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">自然科学系列</td>
-    <td class="tg-0lax"><a href="https://github.com/AtomXT/ECNU-Course-Info/blob/master/info/ZRKX.md">介绍</a></td>
+    <td class="tg-0lax"><a href="info/ZRKX.html">介绍</a></td>
   </tr>
 </table>
 
