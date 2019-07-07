@@ -2,5 +2,5 @@
 
 | 课程名称| 教师 | 信息 |
 |--------|-----|------|
-| 微观经济学 | 金铸 | [信息](../Cource/wgjjx.html) |
-| 宏观经济学 | 金铸 | [信息](../Cource/hgjjx.html) |
+| 微观经济学 | 金铸 | [信息](/Course/wgjjx.html) |
+| 宏观经济学 | 金铸 | [信息](/Course/hgjjx.html) |
