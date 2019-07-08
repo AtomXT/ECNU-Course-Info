@@ -3,6 +3,6 @@
 
 | 课程名称| 教师 | 信息 |
 |--------|-----|------|
-| 证券投资分析 | 郭白滢 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/zqtzfx.md) |
-| 数据挖掘 | 王仁武 | [信息](https://github.com/AtomXT/ECNU-Course-Info/blob/master/Course/sjwj(xxgl).md) |
+| 证券投资分析 | 郭白滢 | [信息](../Course/zqtzfx.md) |
+| 数据挖掘 | 王仁武 | [信息](../Course/sjwj(xxgl).md) |
 
