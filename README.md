@@ -1,3 +1,11 @@
+<script type="text/javascript">
+window.onload = function() {
+  var anchorElements = document.getElementsByTagName('a');
+  for (var i in anchorElements)
+      anchorElements[i].href = anchorElements[i].href.replace(".md", ".html")
+}
+</script>
+
 # ECNU-Course-Info
 提供课程相关信息，便于ECNUer选课。
 
@@ -105,10 +113,3 @@
 
 地址：xu-tong@outlook.com
 
-<script type="text/javascript">
-window.onload = function() {
-  var anchorElements = document.getElementsByTagName('a');
-  for (var i in anchorElements)
-      anchorElements[i].href = anchorElements[i].href.replace(".md", ".html")
-}
-</script>
