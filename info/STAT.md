@@ -18,3 +18,12 @@
 | 统计软件 | 汤银才 张应山 | [信息](/ECNU-Course-Info/Course/tjrj.md) |
 | 微分方程 | 徐方军 | [信息](/ECNU-Course-Info/Course/wffc.md) |
 | 微分方程 | 姚强 | [信息](/ECNU-Course-Info/Course/wffc2.md) |
+
+<script type=text/javascript>
+window.onload = function() {
+  var anchorElements = document.getElementsByTagName('a');
+  for (var i in anchorElements)
+      anchorElements[i].href = anchorElements[i].href.replace(.md, .html)
+}
+</script>
+
