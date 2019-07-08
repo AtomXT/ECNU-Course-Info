@@ -5,12 +5,3 @@
 | 微观经济学 | 金铸 | [信息](/ECNU-Course-Info/Course/wgjjx.md) |
 | 宏观经济学 | 金铸 | [信息](/ECNU-Course-Info/Course/hgjjx.md) |
 | 宏观经济学 | 龙翠红 | [信息](/ECNU-Course-Info/Course/hgjjx2.md) |
-
-<script type=text/javascript>
-window.onload = function() {
-  var anchorElements = document.getElementsByTagName('a');
-  for (var i in anchorElements)
-      anchorElements[i].href = anchorElements[i].href.replace(.md, .html)
-}
-</script>
-
